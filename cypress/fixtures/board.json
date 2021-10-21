@@ -1,0 +1,47 @@
+{
+  "name": "In QA",
+  "user": 0,
+  "id": 9351772894,
+  "starred": false,
+  "created": "2021-10-20",
+  "lists": [
+    {
+      "boardId": 9351772894,
+      "title": "List with items",
+      "id": 35504284467,
+      "created": "2021-10-20"
+    }
+  ],
+  "tasks": [
+    {
+      "boardId": 9351772894,
+      "description": "",
+      "completed": false,
+      "listId": 35504284467,
+      "title": "Stubbing network responses",
+      "id": 30454438426,
+      "created": "2021-10-20",
+      "deadline": "2021-10-23"
+    },
+    {
+      "boardId": 9351772894,
+      "description": "",
+      "completed": false,
+      "listId": 35504284467,
+      "title": "Changing parts of response data",
+      "id": 85463888400,
+      "created": "2021-10-20",
+      "deadline": "2021-10-23"
+    },
+    {
+      "boardId": 9351772894,
+      "description": "",
+      "completed": false,
+      "listId": 35504284467,
+      "title": "Intercepting",
+      "id": 1969756638,
+      "created": "2021-10-20",
+      "deadline": "2021-10-23"
+    }
+  ]
+}
