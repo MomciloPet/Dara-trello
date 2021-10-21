@@ -1,0 +1,7 @@
+{
+  "board" : ".board",
+  "boardDetail" : ".boardDetail",
+  "singleBoard" : "div[data-cy='board-item']",
+  "singleList" : ".List",
+  "singleTask" : "div[data-cy='task']"
+}

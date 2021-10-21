@@ -1,0 +1,10 @@
+node_modules/
+app/node_modules
+app/.nyc_output
+app/coverage
+cypress/videos
+cypress/screenshots
+app/public/uploaded/*.png
+app/public/uploaded/*.jpg
+app/public/css
+app/public/js
